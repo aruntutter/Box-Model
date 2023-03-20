@@ -1,0 +1,27 @@
+html {
+  size: 16px;
+}
+.box {
+  background-color: #ff11cc;
+  width: 480px;
+  height: 540px;
+  padding: 20px 24px 32px 40px;
+  border: 8px solid #33ff33;
+}
+.card {
+  background-color: #33ff33;
+  width: 240px;
+  height: 180px;
+  padding: 12px 14px 16px 20px;
+  border: 6px solid #3333cc;
+  margin-bottom: 1rem;
+  box-shadow: 8px 12px 3px rgba(0, 0, 0, 0.35);
+}
+.title {
+  background-color: #3333cc;
+  color: #ffffff;
+  width: 120px;
+  height: 90px;
+  padding: 12px 14px 16px 20px;
+  border: 2px solid #ff11cc;
+}
