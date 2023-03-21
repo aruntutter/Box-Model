@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
 }
 
 html {
@@ -7,8 +9,6 @@ html {
 }
 .box {
   background-color: #ff11cc;
-  width: 480px;
-  height: 540px;
   padding: 20px 24px 32px 40px;
   border: 8px solid #33ff33;
 }
